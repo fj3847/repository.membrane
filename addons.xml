@@ -11,7 +11,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.3satmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.3satmediathek</source>
         <summary lang="en">Videos from the 3sat Mediathek.</summary>
         <description lang="en">This add-on provides access to the 3sat Mediathek (www.3sat.de/mediathek/). Videos may be geolocked to Germany.</description>
         <summary lang="de">Sendungen und Beiträge aus der 3sat Mediathek.</summary>
@@ -32,7 +32,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.ardmediathek_de</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.ardmediathek_de</source>
         <summary lang="en">Watch videos on demand from the ARD Mediathek.</summary>
         <description lang="en">Watch videos on demand from the ARD Mediathek.</description>
         <summary lang="de">Videos aus der Mediathek des ARD.</summary>
@@ -53,7 +53,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.brmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.brmediathek</source>
         <summary lang="en">This is an add-on for the BR Mediathek http://www.br.de/mediathek/video/index.html.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://www.br.de/mediathek/video/index.html.</description>
         <summary lang="de">Sendebeiträge der BR Mediathek.</summary>
@@ -74,7 +74,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.daserstemediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.daserstemediathek</source>
         <summary lang="en">This is an add-on for http://mediathek.daserste.de/.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://mediathek.daserste.de/.</description>
         <summary lang="de">Sendebeiträge der Das Erste Mediathek.</summary>
@@ -95,7 +95,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.funkmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.funkmediathek</source>
         <summary lang="en">This is an add-on for www.funk.net</summary>
         <description lang="en">This add-on provides access to the German VOD platform www.funk.net. The content is only accessable from Germany.</description>
         <summary lang="de">Serien und Videos von www.funk.net</summary>
@@ -116,7 +116,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.hrmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.hrmediathek</source>
         <summary lang="en">This is an add-on for http://www.hr-online.de/website/fernsehen/sendungen/.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://www.hr-online.de/website/fernsehen/sendungen/.</description>
         <summary lang="de">Vergangene Sendebeiträge der HR Mediathek.</summary>
@@ -137,7 +137,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.kikamediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.kikamediathek</source>
         <summary lang="en">This is an add-on for http://www.kika.de/.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://www.kika.de/.</description>
         <summary lang="de">Videos aus dem Kinderkanal von ARD und ZDF.</summary>
@@ -158,7 +158,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.mdrmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.mdrmediathek</source>
         <summary lang="en">This is an add-on for http://www.mdr.de/mediathek/index.html.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://www.mdr.de/mediathek/index.html.</description>
         <summary lang="de">Sendebeiträge der MDR Mediathek.</summary>
@@ -179,7 +179,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.ndrmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.ndrmediathek</source>
         <summary lang="en">This is an add-on for http://www.ndr.de/mediathek/.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://www.ndr.de/mediathek/.</description>
         <summary lang="de">Sendebeiträge der NDR Mediathek.</summary>
@@ -215,7 +215,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.phoenixmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.phoenixmediathek</source>
         <summary lang="en">This video add-on provides access to videos of the German broadcaster Phoenix.</summary>
         <description lang="en">This video add-on provides access to videos of the German broadcaster Phoenix.</description>
         <summary lang="de">Die Phoenix Mediathek bietet Zugriff auf Talks, Interviews und weiterer Beiträge.</summary>
@@ -237,7 +237,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.sportschau</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.sportschau</source>
         <summary lang="en">Videos und livestreams of the German tv show Sportschau.</summary>
         <description lang="en">This add-on fetches videos and livestreams from www.sportschau.de. Most of the streams are geolocked to Germany.</description>
         <summary lang="de">Videos und Livesendungnen der Sportschau.</summary>
@@ -258,7 +258,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.srmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.srmediathek</source>
         <summary lang="en">This is an add-on for http://sr-mediathek.de/.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://sr-mediathek.de/.</description>
         <summary lang="de">Sendebeiträge der SR Mediathek.</summary>
@@ -279,7 +279,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.swrmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.swrmediathek</source>
         <summary lang="en">This is an add-on for http://swrmediathek.de/index.htm.</summary>
         <description lang="en">This add-on provides access to the German VOD platform http://swrmediathek.de/index.htm. The content is only accessable from Germany.</description>
         <summary lang="de">Sendebeiträge der SWR Mediathek.</summary>
@@ -313,7 +313,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.unithek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.unithek</source>
         <summary lang="en">This is an add-on for German TV broadcasters.</summary>
         <description lang="en">This add-on provides access to the German VOD platforms of 3sat, ARD, BR, Das Erste, HR, KiKa, MDR, NDR, SR, SWR, WDR and ZDF.</description>
         <summary lang="de">Sendebeiträge von vielen Mediatheken des öffentlich rechtlichen Fernsehens.</summary>
@@ -334,7 +334,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.wdrmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.wdrmediathek</source>
         <summary lang="en">View videos from the German tv broadcaster "WDR".</summary>
         <description lang="en">This add-on lists the videos of the WDR Mediathek (www1.wdr.de/mediathek/video). Videos may be geolocked.</description>
         <summary lang="de">Die Mediathek des WDR.</summary>
@@ -356,7 +356,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.wdrrockpalast</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.wdrrockpalast</source>
         <summary lang="en">This add-on lists all videos of the WDR Rockpalast.</summary>
         <description lang="en">This is a video add-on for the WDR Rockpalast (www1.wdr.de/mediathek/video/sendungen/rockpalast/rockpalast-106.html). The content may be geolocked.</description>
         <summary lang="de">Dies ist ein Video Add-on für den WDR Rockpalast.</summary>
@@ -377,7 +377,7 @@
         <platform>all</platform>
 		<language>de</language>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<source>https://github.com/prof-membrane/plugin.video.zdfmediathek</source>
+		<source>https://github.com/fj3847/repository.membrane/plugin.video.zdfmediathek</source>
         <summary lang="en">Watch videos on demand from the ZDF Mediathek.</summary>
         <description lang="en">Watch videos on demand from the ZDF Mediathek.</description>
         <summary lang="de">Videos aus der Mediathek des ZDF</summary>
@@ -416,7 +416,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libard</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libard</source>
     <summary lang="en">This is a scraper for http://www.ardmediathek.de/tv.</summary>
     <description lang="en">This is a scraper for http://www.ardmediathek.de/tv.</description>
   </extension>
@@ -434,7 +434,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libbr</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libbr</source>
     <summary lang="en">This is a scraper for the BR Mediathek (http://www.br.de/mediathek/video/index.html).</summary>
     <description lang="en">This is a scraper for the BR Mediathek (http://www.br.de/mediathek/video/index.html). It uses the JSON API of the Android app.</description>
   </extension>
@@ -469,7 +469,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libhr</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libhr</source>
     <summary lang="en">This is a scraper for the HR Mediathek (http://www.hr-online.de/website/fernsehen/sendungen/).</summary>
     <description lang="en">This is a scraper for the HR Mediathek (http://www.hr-online.de/website/fernsehen/sendungen/).</description>
   </extension>
@@ -488,7 +488,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libkika</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libkika</source>
     <summary lang="en">This is a scraper for the KiKa Mediathek (http://www.kika.de).</summary>
     <description lang="en">This is a scraper for the KiKa Mediathek (http://www.kika.de).</description>
   </extension>
@@ -506,7 +506,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libmdr</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libmdr</source>
     <summary lang="en">This is a scraper for the MDR Mediathek (http://www.mdr.de/mediathek/index.html).</summary>
     <description lang="en">This is a scraper for the MDR Mediathek (http://www.mdr.de/mediathek/index.html).</description>
   </extension>
@@ -523,7 +523,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/plugin.video.funkmediathek</source>
+    <source>https://github.com/fj3847/repository.membrane/plugin.video.funkmediathek</source>
     <summary lang="en">Supplementary lib for Mediathek add-ons.</summary>
     <description lang="en">This lib is a mini framework. It is used in following "Mediathek" Scrapers: 3sat, ARD, BR, Das Erste, MDR, SR, SWR, WDR, ZDF. It is also used in the add-ons Funk Mediathek, NHL Videocenter and Phoenix Mediathek.</description>
   </extension>
@@ -572,7 +572,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libsr</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libsr</source>
     <summary lang="en">This is a scraper for the SR Mediathek (http://www.sr-mediathek.de/).</summary>
     <description lang="en">This is a scraper for the SR Mediathek (http://www.sr-mediathek.de/). It uses the HbbTV JSON API.</description>
   </extension>
@@ -606,7 +606,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libWdr</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libWdr</source>
     <summary lang="en">This is a scraper for content of the German broadcaster "WDR".</summary>
     <description lang="en">This is a scraper for content of the German broadcaster "WDR".</description>
   </extension>
@@ -624,7 +624,7 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/prof-membrane/script.module.libzdf</source>
+    <source>https://github.com/fj3847/repository.membrane/script.module.libzdf</source>
     <summary lang="en">This is a scraper for the ZDF Mediathek (http://www.zdf.de).</summary>
     <description lang="en">This is a scraper for the ZDF Mediathek (http://www.zdf.de).</description>
   </extension>
